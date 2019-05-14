@@ -8,4 +8,4 @@
 
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
-| 1. Hashketball Review | [Code]() | [Video]() |
+| 1. Hashketball Review | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/01-hashketball-review) | [Video](https://youtu.be/QhWpq5oE3lc) |
