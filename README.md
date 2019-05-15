@@ -10,5 +10,5 @@
 | ---------------------- | ------------------- | -------------------------------------- |
 | 1. Hashketball Review | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/01-hashketball-review) | [Video](https://youtu.be/QhWpq5oE3lc) |
 | 2. Hashes and the Internet | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/02-internet-requests) | [Video](https://youtu.be/xaFKe-Hs2Og) |
-| 3. Review | [Code](https://github.com/dahby/apis-and-iteration) | [Video]() |
+| 3. Review | [Code](https://github.com/dahby/apis-and-iteration) | [Video](https://www.youtube.com/watch?v=0aONSpvA7dw) |
 | 3. Classes | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/03-classes) | [Video 1](https://youtu.be/vnzDcGyPOR4) [Video 2](https://youtu.be/AA-5OR6DlXY) |
