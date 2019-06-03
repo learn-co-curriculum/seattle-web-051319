@@ -20,3 +20,4 @@
 | 9. Active Record | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/09-active-record/game_shows) | [Video](https://youtu.be/oSViixOE6Oc) |
 | 10. Command Line Application | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/10-command-line-applications) | [Video](https://youtu.be/YfXlzy9fc-I) |
 | 11. Intro to Rack | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/11-rack-intro) | [Video](https://youtu.be/ivczzDBLO6E) |
+| 12. Sinatra and MVC | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/12-sinatra-mvc) | [Video](https://youtu.be/G1oqOBzXOBo) |
