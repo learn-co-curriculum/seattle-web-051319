@@ -19,4 +19,4 @@
 | 8. SQL and Ruby | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/08-sql-and-ruby) | [Video 1](https://youtu.be/pxBfBRNzly0) [Video 2](https://youtu.be/AM8qON3Rn9w)|
 | 9. Active Record | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/09-active-record/game_shows) | [Video](https://youtu.be/oSViixOE6Oc) |
 | 10. Command Line Application | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/10-command-line-applications) | [Video](https://youtu.be/YfXlzy9fc-I) |
-
+| 11. Intro to Rack | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/11-rack-intro) | [Video](https://youtu.be/ivczzDBLO6E) |
