@@ -21,3 +21,4 @@
 | 10. Command Line Application | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/10-command-line-applications) | [Video](https://youtu.be/YfXlzy9fc-I) |
 | 11. Intro to Rack | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/11-rack-intro) | [Video](https://youtu.be/ivczzDBLO6E) |
 | 12. Sinatra and MVC | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/12-sinatra-mvc) | [Video](https://youtu.be/G1oqOBzXOBo) |
+| 13. Sinatra CRUD | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/13-sinatra-CRUD-REst) | [Video](https://youtu.be/MJnulJZ3b9Q) |
