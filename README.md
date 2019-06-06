@@ -22,3 +22,4 @@
 | 11. Intro to Rack | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/11-rack-intro) | [Video](https://youtu.be/ivczzDBLO6E) |
 | 12. Sinatra and MVC | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/12-sinatra-mvc) | [Video](https://youtu.be/G1oqOBzXOBo) |
 | 13. Sinatra CRUD | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/13-sinatra-CRUD-REst) | [Video](https://youtu.be/MJnulJZ3b9Q) |
+| 14. Intro to Capybara | [Slides](https://docs.google.com/presentation/d/1vUErOo7OS903lncxox5-qZCn7hssYPrNqb0xD7K91A8/edit?usp=sharing) | [Video](https://youtu.be/EvxpmqelmVw) |
