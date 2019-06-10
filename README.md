@@ -25,3 +25,4 @@
 | 14. Sinatra Associations | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/14-sinatra-associations-and-forms/prep-material) | [Video](https://youtu.be/3oHKy5qNUkA) |
 | 15. Intro to Capybara | [Slides](https://docs.google.com/presentation/d/1vUErOo7OS903lncxox5-qZCn7hssYPrNqb0xD7K91A8/edit?usp=sharing) | [Video](https://youtu.be/EvxpmqelmVw) |
 | 16. Intro to Rails | [Code](https://github.com/dahby/rails-intro-seattle-web-051319/tree/master) | [Video](https://www.youtube.com/watch?v=BgOlNdrEHIc&feature=youtu.be) |
+| 17. Rails CRU | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/15-rails-CRU) | [Video](https://youtu.be/TG5yZW7jcfQ) |
