@@ -19,10 +19,16 @@
 | 8. SQL and Ruby | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/08-sql-and-ruby) | [Video 1](https://youtu.be/pxBfBRNzly0) [Video 2](https://youtu.be/AM8qON3Rn9w)|
 | 9. Active Record | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/09-active-record/game_shows) | [Video](https://youtu.be/oSViixOE6Oc) |
 | 10. Command Line Application | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/10-command-line-applications) | [Video](https://youtu.be/YfXlzy9fc-I) |
+
+## Module 2 
+
+| Topic                  | Code                | Video                                  |
+| ---------------------- | ------------------- | -------------------------------------- |
 | 11. Intro to Rack | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/11-rack-intro) | [Video](https://youtu.be/ivczzDBLO6E) |
 | 12. Sinatra and MVC | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/12-sinatra-mvc) | [Video](https://youtu.be/G1oqOBzXOBo) |
 | 13. Sinatra CRUD | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/13-sinatra-CRUD-REst) | [Video](https://youtu.be/MJnulJZ3b9Q) |
 | 14. Sinatra Associations | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/14-sinatra-associations-and-forms/prep-material) | [Video](https://youtu.be/3oHKy5qNUkA) |
 | 15. Intro to Capybara | [Slides](https://docs.google.com/presentation/d/1vUErOo7OS903lncxox5-qZCn7hssYPrNqb0xD7K91A8/edit?usp=sharing) | [Video](https://youtu.be/EvxpmqelmVw) |
 | 16. Intro to Rails | [Code](https://github.com/dahby/rails-intro-seattle-web-051319/tree/master) | [Video](https://www.youtube.com/watch?v=BgOlNdrEHIc&feature=youtu.be) |
+| 16.5 Intro to Rails Discussion Question | Code N/A | [Video](https://youtu.be/ERogGlHnRvs) |
 | 17. Rails CRU | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/15-rails-CRU) | [Video](https://youtu.be/TG5yZW7jcfQ) |
