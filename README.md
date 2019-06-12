@@ -32,3 +32,4 @@
 | 16. Intro to Rails | [Code](https://github.com/dahby/rails-intro-seattle-web-051319/tree/master) | [Video](https://www.youtube.com/watch?v=BgOlNdrEHIc&feature=youtu.be) |
 | 16.5 Intro to Rails Discussion Question | Code N/A | [Video](https://youtu.be/ERogGlHnRvs) |
 | 17. Rails CRU | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/15-rails-CRU) | [Video](https://youtu.be/TG5yZW7jcfQ) |
+| 18. Rails Form and Associations | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/16-rails-forms-and-associations) | [Video](https://youtu.be/7x1dGYjmzIo) |
