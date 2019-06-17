@@ -34,3 +34,4 @@
 | 17. Rails CRU | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/15-rails-CRU) | [Video](https://youtu.be/TG5yZW7jcfQ) |
 | 18. Rails Form and Associations | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/16-rails-forms-and-associations) | [Video](https://youtu.be/7x1dGYjmzIo) |
 | 18. Rails Review | [Code] | [Video](https://youtu.be/fKSMot3DD_A) |
+| 19. Git Lecture | [Slides](https://docs.google.com/presentation/d/1SDWtJiohhfwjK7H0zX200wemFoCz_MVgB272lX3UqN8/edit?usp=sharing) | [Video](https://youtu.be/wiqr9BjgXXw) |
