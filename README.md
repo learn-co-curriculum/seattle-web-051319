@@ -35,3 +35,4 @@
 | 18. Rails Form and Associations | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/16-rails-forms-and-associations) | [Video](https://youtu.be/7x1dGYjmzIo) |
 | 18. Rails Review | [Code] | [Video](https://youtu.be/fKSMot3DD_A) |
 | 19. Git Lecture | [Slides](https://docs.google.com/presentation/d/1SDWtJiohhfwjK7H0zX200wemFoCz_MVgB272lX3UqN8/edit?usp=sharing) | [Video](https://youtu.be/wiqr9BjgXXw) |
+| 19. Sessions Cookies and Flash | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/18-sessions-cookies/24-rails-cookies) | [Video](https://youtu.be/8RAZMC3Og5k) |
