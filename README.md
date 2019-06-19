@@ -37,4 +37,4 @@
 | 19. Git Lecture | [Slides](https://docs.google.com/presentation/d/1SDWtJiohhfwjK7H0zX200wemFoCz_MVgB272lX3UqN8/edit?usp=sharing) | [Video](https://youtu.be/wiqr9BjgXXw) |
 | 19. Sessions Cookies and Flash | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/18-sessions-cookies/24-rails-cookies) | [Video](https://youtu.be/8RAZMC3Og5k) |
 | 20. Authentication and Authorization | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/19-authentication-authorization) | [Video](https://youtu.be/7y2I3xdgoRs) |
-| 21. Authentication Part 2 | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/20-authentication-part-2) | [Video](https://youtu.be/tCZyb0qxidQ) |
+| 21. Authentication Part 2 | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/21-authentication-part2) | [Video](https://youtu.be/tCZyb0qxidQ) |
