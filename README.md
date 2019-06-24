@@ -45,4 +45,4 @@
 # Module 3
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
-| 21. Intro to Rack | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/21-dom-manipulation) | [Video](https://youtu.be/Z-kcKY6N2oc) |
+| 21. DOM Manipulation | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/21-dom-manipulation) | [Video](https://youtu.be/Z-kcKY6N2oc) |
