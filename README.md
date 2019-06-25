@@ -46,3 +46,4 @@
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
 | 21. DOM Manipulation | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/21-dom-manipulation) | [Video](https://youtu.be/Z-kcKY6N2oc) |
+| 22. Events | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/22-events) | [Video](https://youtu.be/DPHv0lZKMY4) |
