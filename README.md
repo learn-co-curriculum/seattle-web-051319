@@ -47,4 +47,5 @@
 | ---------------------- | ------------------- | -------------------------------------- |
 | 21. DOM Manipulation | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/21-dom-manipulation) | [Video](https://youtu.be/Z-kcKY6N2oc) |
 | 22. Events | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/22-events) | [Video](https://youtu.be/DPHv0lZKMY4) |
+| 23. Fetch | [Code](https://github.com/dahby/making-fetch-happen/tree/master) | [Video](https://www.youtube.com/watch?v=e7TwaDYncNY&feature=youtu.be) |
 | 24. POST fetch | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/24-POST-fetch) | [Video](https://youtu.be/q8KLLGb69vM) |
