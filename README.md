@@ -50,3 +50,4 @@
 | 23. Fetch | [Code](https://github.com/dahby/making-fetch-happen/tree/master) | [Video](https://www.youtube.com/watch?v=e7TwaDYncNY&feature=youtu.be) |
 | 24. POST fetch | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/24-POST-fetch) | [Video](https://youtu.be/q8KLLGb69vM) |
 | 25. Rails as an Api Pt 1 | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/25-js-and-rails) | [Video](https://youtu.be/DO71mKybYms) |
+| 26. JS Code Challenge Review | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/26-review-and-advanced-js) | [Video](https://www.youtube.com/watch?v=4dMcHGWvaMY) |
