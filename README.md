@@ -52,3 +52,8 @@
 | 25. Rails as an Api Pt 1 | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/25-js-and-rails) | [Video](https://youtu.be/DO71mKybYms) |
 | 26. JS Code Challenge Review | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/26-review-and-advanced-js) | [Video](https://www.youtube.com/watch?v=4dMcHGWvaMY) |
 | 27. Functional Programming | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/27-functional-js) | [Video](https://youtu.be/ic-r5raz0PQ) |
+
+# DSA Data Structures and Algorithms TIPS Technical Interview Practice
+| Topic                  | Code                | Video                                  |
+| ---------------------- | ------------------- | -------------------------------------- |
+| 90. Big-O, ArrayLists | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/90-array-lists/) | [Video](https://youtu.be/Tt4vPob1u48) |
