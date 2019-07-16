@@ -54,6 +54,11 @@
 | 27. Functional Programming | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/27-functional-js) | [Video](https://youtu.be/ic-r5raz0PQ) |
 | 28. Rails as an API pt 2 | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/25-js-and-rails/Zookeeper) | [Video](https://youtu.be/MBhp__a4G5s) |
 
+# Module 4
+| Topic                  | Code                | Video                                  |
+| ---------------------- | ------------------- | -------------------------------------- |
+| 29. Intro to React | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/29-intro-to-react) | [Video](https://youtu.be/hPAm9NfzN-U) |
+
 # DSA Data Structures and Algorithms TIPS Technical Interview Practice
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
