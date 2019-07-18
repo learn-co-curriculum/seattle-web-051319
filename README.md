@@ -59,6 +59,7 @@
 | ---------------------- | ------------------- | -------------------------------------- |
 | 29. Intro to React | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/29-intro-to-react) | [Video](https://youtu.be/hPAm9NfzN-U) |
 | 30. Lifting State | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/30-lifting-state) | [Video](https://youtu.be/nUztz0PkSho) |
+| 31. Lifecycle Methods | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/31-lifecycle-methods) | [Video](https://youtu.be/g-kwa_GGf1I) |
 
 # DSA Data Structures and Algorithms TIPS Technical Interview Practice
 | Topic                  | Code                | Video                                  |
