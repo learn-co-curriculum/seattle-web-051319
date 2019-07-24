@@ -61,6 +61,7 @@
 | 30. Lifting State | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/30-lifting-state) | [Video](https://youtu.be/nUztz0PkSho) |
 | 31. Lifecycle Methods | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/31-lifecycle-methods) | [Video](https://youtu.be/g-kwa_GGf1I) |
 | 32. Carousel | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/32-react-best-practices) | [Video](https://youtu.be/cQqmIke57IA) |
+| 33. React Router | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/33-react-router) | [Video](https://youtu.be/104MECwzL6g) |
 
 # DSA Data Structures and Algorithms TIPS Technical Interview Practice
 | Topic                  | Code                | Video                                  |
