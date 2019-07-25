@@ -62,6 +62,7 @@
 | 31. Lifecycle Methods | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/31-lifecycle-methods) | [Video](https://youtu.be/g-kwa_GGf1I) |
 | 32. Carousel | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/32-react-best-practices) | [Video](https://youtu.be/cQqmIke57IA) |
 | 33. React Router | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/33-react-router) | [Video](https://youtu.be/104MECwzL6g) |
+| 34. React Auth| [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/34-react-auth) | [Video](https://youtu.be/MHay9WR3DzU) |
 
 # DSA Data Structures and Algorithms TIPS Technical Interview Practice
 | Topic                  | Code                | Video                                  |
