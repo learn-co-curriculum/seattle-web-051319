@@ -63,7 +63,8 @@
 | 32. Carousel | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/32-react-best-practices) | [Video](https://youtu.be/cQqmIke57IA) |
 | 33. React Router | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/33-react-router) | [Video](https://youtu.be/104MECwzL6g) |
 | 34. React Auth| [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/34-react-auth) | [Video](https://youtu.be/MHay9WR3DzU) |
-| 34. High-Order Components| [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/35-hoc) | [Video](https://youtu.be/8yKO8z1dvPc) |
+| 35. High-Order Components| [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/35-hoc) | [Video](https://youtu.be/8yKO8z1dvPc) |
+| 36. Intro to Redux| [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/36-intro-to-redux) | [Video](https://youtu.be/m8LxvtNOV88) |
 
 # DSA Data Structures and Algorithms TIPS Technical Interview Practice
 | Topic                  | Code                | Video                                  |
