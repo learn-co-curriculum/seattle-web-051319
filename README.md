@@ -65,7 +65,7 @@
 | 34. React Auth| [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/34-react-auth) | [Video](https://youtu.be/MHay9WR3DzU) |
 | 35. High-Order Components| [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/35-hoc) | [Video](https://youtu.be/8yKO8z1dvPc) |
 | 36. Intro to Redux| [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/36-intro-to-redux) | [Video](https://youtu.be/m8LxvtNOV88) |
-| 36. React-Redux| [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/37-react-redux) | [Video 1](https://youtu.be/1WzrypCrHjc) | [Video 2](https://youtu.be/e3mdF57_ffk)
+| 36. React-Redux| [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/37-react-redux) | [Video 1](https://youtu.be/1WzrypCrHjc) [Video 2](https://youtu.be/e3mdF57_ffk)
 
 # DSA Data Structures and Algorithms TIPS Technical Interview Practice
 | Topic                  | Code                | Video                                  |
