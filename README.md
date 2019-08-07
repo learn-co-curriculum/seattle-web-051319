@@ -71,3 +71,4 @@
 | Topic                  | Code                | Video                                  |
 | ---------------------- | ------------------- | -------------------------------------- |
 | 90. Big-O, ArrayLists | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/90-array-lists/) | [Video](https://youtu.be/Tt4vPob1u48) |
+| 93. Hash Maps | [Code](https://github.com/learn-co-students/seattle-web-051319/tree/master/93-hash-maps) | [Video](https://youtu.be/krkx2DeavzQ) |
