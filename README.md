@@ -7,6 +7,8 @@
 ## Daily Programming Problems
 <https://github.com/learn-co-students/seattle-web-051319-daily-code-challenges>
 
+## Mod 5 Whiteboarding Practice
+<https://github.com/learn-co-students/seattle-web-051319/tree/master/99-mod-5-wb-interviews>
 ## Module 1
 
 | Topic                  | Code                | Video                                  |
